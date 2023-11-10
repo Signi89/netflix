@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #3d3c3c;
+}
+
+.grey-bg {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    width: 70rem;
+    background-color: #3d3c3c;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0;
+    margin: auto;
+}
+
+h1 {
+    color: red;
+
+}
+
+button {
+    background-color: red;
+    padding: 10px;
+}
+
+.container2 {
+    /* display: flex; */
+    font-size: medium;
+    color: white;
+    margin: 100px auto;
+    width: fit-content;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.background {
+    background-image: url('NG-en-20230925-popsignuptwoweeks-perspective_alpha_website_medium.jpg');
+    height: 100vh;
+}
+
+.btn {
+    text-align: align right;
+}
+
+form {
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+}
+.email{
+    width: 20rem;
+}
+
+.tvimage {
+    justify-content: space-around;
+    display: flex;
+    font-size: medium;
+    margin: 100px auto;
+    padding: 10px;
+    background-color: black;
+    text-align: center;
+}
+
+h6 {
+    display: flex;
+    color: white;
+    font-size: xx-large;
+}
+
+h5 {
+    display: flex;
+    color: white;
+    margin: 10px;
+    font-weight: lighter;
+    width: fit-content;
+}
+
+.mobile {
+    display: flex;
+    font-size: medium;
+    margin: 100px auto;
+    padding: 10px;
+    background-color: black;
+   justify-content: left;
+    
+}
+
+.question {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.p-tag {
+    /* display:flex; */
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+h2 {
+    display: flex;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+h3,
+h4 {
+    font-size: medium;
+    font-weight: lighter;
+    margin: 10px;
+    text-align: center;
+}
